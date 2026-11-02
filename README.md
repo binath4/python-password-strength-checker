@@ -26,7 +26,8 @@ The application evaluates a password locally and explains its weaknesses. It doe
 ## Screenshots
 
 ### Character-checking results
-![Character checks](screenshots/screenshot.png)
+
+![](screenshots/Screenshot.png)
 
 ## Requirements
 
