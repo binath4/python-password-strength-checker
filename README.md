@@ -2,7 +2,7 @@
 ![Security](https://img.shields.io/badge/Cybersecurity-Password%20Security-red?style=for-the-badge)
 ![Testing](https://img.shields.io/badge/Testing-Unittest-blue?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 # Python Password Strength Checker
 
@@ -22,6 +22,11 @@ The application evaluates a password locally and explains its weaknesses. It doe
 - Small sample common-password check
 - Rule-based rating: Weak, Moderate, Strong, Very Strong
 - Improvement suggestions
+
+## Screenshots
+
+### Character-checking results
+![Character checks](screenshots/screenshot.png)
 
 ## Requirements
 
